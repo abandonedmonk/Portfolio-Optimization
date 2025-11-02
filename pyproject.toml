@@ -1,0 +1,8 @@
+[project]
+name = "portfolio-optimization"
+version = "0.1.0"
+dependencies = [
+    "ipykernel>=6.31.0",
+    "notebook>=7.4.7",
+    "yfinance>=0.2.66",
+]
